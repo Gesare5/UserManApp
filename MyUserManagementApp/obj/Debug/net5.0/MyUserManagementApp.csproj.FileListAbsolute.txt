@@ -1,0 +1,16 @@
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/MyUserManagementApp.csproj.AssemblyReference.cache
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/MyUserManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/MyUserManagementApp.AssemblyInfoInputs.cache
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/MyUserManagementApp.AssemblyInfo.cs
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/MyUserManagementApp.csproj.CoreCompileInputs.cache
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/bin/Debug/net5.0/MyUserManagementApp
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/bin/Debug/net5.0/MyUserManagementApp.deps.json
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/bin/Debug/net5.0/MyUserManagementApp.runtimeconfig.json
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/bin/Debug/net5.0/MyUserManagementApp.runtimeconfig.dev.json
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/bin/Debug/net5.0/MyUserManagementApp.dll
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/bin/Debug/net5.0/ref/MyUserManagementApp.dll
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/bin/Debug/net5.0/MyUserManagementApp.pdb
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/MyUserManagementApp.dll
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/ref/MyUserManagementApp.dll
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/MyUserManagementApp.pdb
+/home/gesare/Documents/womentechsters/C#/week 10/project/User App/MyUserManagementApp/obj/Debug/net5.0/MyUserManagementApp.genruntimeconfig.cache
